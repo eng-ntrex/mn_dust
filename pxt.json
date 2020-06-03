@@ -8,7 +8,6 @@
     "description": "mn dust kit driver",
     "license": "MIT",
     "files": [
-        "main.blocks",
         "dustkit.ts",
         "README.md"
     ],
