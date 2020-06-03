@@ -3,7 +3,6 @@
     "version": "1.0.2",
     "description": "mn dust kit driver",
     "license": "MIT",
-       },
     "files": [
         "README.md",
         "dustkit.ts",
